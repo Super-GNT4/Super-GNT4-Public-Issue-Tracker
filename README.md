@@ -1,2 +1,7 @@
-# Super-GNT4-Super-GNT4-Public-Issue-Tracker
-The official issue tracker for the Super GNT4 mod.
+# Super GNT4 Super GNT4 Public Issue Tracker
+
+Hi, thanks for taking the time to come and report an issue!
+
+To ensure your issue can be fixed please follow the issue template and provide all the steps you can so we know exactly how to recreate the problem. The easier it is to recreate, the easier it is for it to be fixed (usually anyway :D).
+
+Create a Github account and click on the **Issues** tab above or just click [here](https://github.com/Super-GNT4/Super-GNT4-Super-GNT4-Public-Issue-Tracker/issues).
