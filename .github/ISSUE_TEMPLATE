@@ -1,13 +1,13 @@
 ---
 name: Issue Report
-about: I've found a bug/have a feature request
+about: I've found a bug/have an enhancement request
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug/feature**
+**Describe the bug/enhancement**
 Here tell us what you thought was meant to happen and then how the game actually acted. Or what you would like the game to be able to do.
 
 **To Reproduce**
