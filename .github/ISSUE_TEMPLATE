@@ -1,0 +1,24 @@
+---
+name: Issue Report
+about: I've found a bug/have a feature request
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Describe the bug/feature**
+Here tell us what you thought was meant to happen and then how the game actually acted. Or what you would like the game to be able to do.
+
+**To Reproduce**
+Steps to reproduce the behavior, for example:
+1. Enter 2p Versus '...'
+2. Select Sakura vs Iruka '....'
+3. Have Sakura do 2B on Iruka '....'
+4. Super GNT4 crashed
+
+**Screenshots/Videos/Twitch Clips**
+These are worth their weight in gold!
+
+**Additional context**
+Unburden yourself of thoughts and musings here
