@@ -1,4 +1,4 @@
-# Super GNT4 Super GNT4 Public Issue Tracker
+# Super GNT4 Public Issue Tracker
 
 Hi, thanks for taking the time to come and report an issue!
 
